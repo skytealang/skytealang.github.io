@@ -9,7 +9,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <p>I am a first-year PhD student jointly sponsored by <strong>Tsinghua University</strong> and <strong>Southeast University</strong>.</p>
+    <p>I am a first-year PhD student in a joint program between <strong>Tsinghua University</strong> and <strong>Southeast University</strong>.</p>
 
     <p>My supervisor is <strong>{{ site.academic.supervisor }}</strong>, and I am also advised by <strong>{{ site.academic.advisor }}</strong> in <strong>{{ site.academic.lab }}</strong>.</p>
 
