@@ -9,16 +9,15 @@ baseurl: ""  # 如果您使用的是用户名.github.io，则保持为空
 url: "https://skytealang.github.io"  # 请替换为您的 GitHub Pages URL
 
 # 主题设置
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # 学术信息（自定义变量，便于在页面中调用）
 academic:
   university: Tsinghua University & Southeast University
   status: First-Year Joint PhD Student
-  supervisor: Prof. Qionghai Dai
-  advisor: Tao Yu
+  supervisor: Prof. Qionghai Dai & Tao Yu
   lab: BNRist, Tsinghua University
   research_areas:
     - AI
