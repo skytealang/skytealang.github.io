@@ -2,11 +2,11 @@
 
 # 站点基本信息
 title: Qingqian's Homepage
-email: your-email@example.com  # 请替换为您的邮箱
+email: qqianlang@163.com  # 请替换为您的邮箱
 description: >- # 用一行文本描述您的网站
   Qingqian's academic homepage. Research on AI and 3D Vision.
 baseurl: ""  # 如果您使用的是用户名.github.io，则保持为空
-url: "https://yourusername.github.io"  # 请替换为您的 GitHub Pages URL
+url: "https://skytealang.github.io"  # 请替换为您的 GitHub Pages URL
 
 # 主题设置
 remote_theme: pages-themes/architect@v0.2.0
@@ -18,7 +18,7 @@ academic:
   university: Tsinghua University & Southeast University
   status: First-Year Joint PhD Student
   supervisor: Prof. Qionghai Dai
-  advisor: Tao Yu (Associate Researcher)
+  advisor: Tao Yu
   lab: BNRist, Tsinghua University
   research_areas:
     - AI
