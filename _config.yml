@@ -1,3 +1,37 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# _config.yml
+
+# 站点基本信息
+title: Qingqian's Homepage
+email: your-email@example.com  # 请替换为您的邮箱
+description: >- # 用一行文本描述您的网站
+  Qingqian's academic homepage. Research on AI and 3D Vision.
+baseurl: ""  # 如果您使用的是用户名.github.io，则保持为空
+url: "https://yourusername.github.io"  # 请替换为您的 GitHub Pages URL
+
+# 主题设置
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# 导航菜单
+nav:
+  - name: Home
+    url: /
+  - name: Publications
+    url: /publications
+  - name: Research
+    url: /research
+  - name: Contact
+    url: /contact
+
+# 学术信息（自定义变量，便于在页面中调用）
+academic:
+  university: Tsinghua University & Southeast University
+  status: First-Year Joint PhD Student
+  supervisor: Prof. Qionghai Dai
+  advisor: Tao Yu (Associate Researcher)
+  lab: BNRist, Tsinghua University
+  research_areas:
+    - AI
+    - 3D Computer Vision
+    - Light Field Depth Estimation
