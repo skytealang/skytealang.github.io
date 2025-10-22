@@ -10,6 +10,7 @@ title: Contact
 <ul>
   <li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
   <li><strong>Lab:</strong> {{ site.academic.lab }}</li>
+  <li><strong>Adress:</strong> Room 4-308, FIT Building, Tsinghua University, Beijing, China, 100084.</li>
 </ul>
 
 <p>You can also find me on:</p>
