@@ -17,6 +17,25 @@ layout: default
   </article>
 
   <hr />
+  <section>
+    <h2>Education</h2>
+    <ul class="education-list">
+      <li>
+        <span class="education-period">2025 - Present</span>
+        <div class="education-details">
+          <strong>Ph.D. in Control Science and Engineering</strong><br>
+          BNRist, Tsinghua University & School of Automation, Southeast University
+        </div>
+      </li>
+      <li>
+        <span class="education-period">2021 - 2025</span>
+        <div class="education-details">
+          <strong>B.E. in Robotics Science and Engineering</strong><br>
+          Faculty of Robotics Science and Engineering, Northeastern University
+        </div>
+      </li>
+    </ul>
+  </section>
 
   <section>
     <h2>Recent Updates</h2>
