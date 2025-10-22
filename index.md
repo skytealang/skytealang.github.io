@@ -9,9 +9,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <p>I am a first-year PhD student in a joint program between <strong>Tsinghua University</strong> and <strong>Southeast University</strong>.</p>
-
-    <p>My supervisor is <strong>{{ site.academic.supervisor }}</strong> in <strong>{{ site.academic.lab }}</strong>.</p>
+    <p>I am a first-year PhD student in a joint program between <strong>Tsinghua University</strong> and <strong>Southeast University</strong> advised by <strong>{{ site.academic.supervisor }}</strong> in <strong>{{ site.academic.lab }}</strong>.</p>
 
     <p>My primary research interests lie in <strong>AI</strong> and <strong>3D Vision</strong>. Recently, our group has been working on <strong>Light Field Depth Estimation</strong>.</p>
 
@@ -26,7 +24,6 @@ layout: default
       <li>
         <span class="post-meta">Oct 21, 2025</span>
         <h3>Started my PhD journey!</h3>
-        <p>Excited to begin research on 3D vision at BNRist.</p>
       </li>
       <!-- 您可以继续添加更多动态 -->
     </ul>
