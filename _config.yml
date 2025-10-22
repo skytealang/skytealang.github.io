@@ -16,9 +16,7 @@ plugins:
 # 学术信息（自定义变量，便于在页面中调用）
 academic:
   university: Tsinghua University & Southeast University
-  status: First-Year Joint PhD Student
-  supervisor: Prof. Qionghai Dai & Tao Yu
-  lab: BNRist, Tsinghua University
+  lab: BBNC, Tsinghua University
   research_areas:
     - AI
     - 3D Computer Vision
