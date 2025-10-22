@@ -30,8 +30,8 @@ layout: default
       <li>
         <span class="education-period">2021 - 2025</span>
         <div class="education-details">
-          <strong>B.E. in Robotics Science and Engineering</strong><br>
-          Faculty of Robotics Science and Engineering, Northeastern University
+          <strong>B.E. in Robot Science and Engineering</strong><br>
+          Faculty of Robot Science and Engineering, Northeast University
         </div>
       </li>
     </ul>
